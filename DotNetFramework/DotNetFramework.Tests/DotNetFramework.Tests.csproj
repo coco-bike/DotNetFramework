@@ -99,9 +99,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DotNetFramework\DotNetFramework.csproj">
+    <ProjectReference Include="..\DotNetFramework\Web.csproj">
       <Project>{5375D9AD-2D0E-40D9-A9A9-6A127F20AB26}</Project>
-      <Name>DotNetFramework</Name>
+      <Name>Web</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
