@@ -45,6 +45,7 @@
       <HintPath>..\packages\Senparc.Weixin.Open.2.10.5\lib\net45\Senparc.Weixin.Open.dll</HintPath>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.Web" />
@@ -64,13 +65,14 @@
     <Compile Include="MyMVCWeixin\WeixinApiDispatch.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SenParcWeiXinPeople\CustomMessageContext.cs" />
+    <Compile Include="SenParcWeiXinPeople\CustomMessageHandler.cs" />
+    <Compile Include="SenParcWeiXinPeople\Menu\AdminMenu.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="SenParcWeiXin\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
