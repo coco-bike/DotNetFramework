@@ -1,0 +1,4 @@
+E:\Git\DotNetFramework\DotNetFramework\DotNetFramework\obj\Debug\Web.csprojAssemblyReference.cache
+E:\Git\DotNetFramework\DotNetFramework\DotNetFramework\obj\Debug\Web.csproj.CoreCompileInputs.cache
+E:\Git\DotNetFramework\DotNetFramework\DotNetFramework\obj\Debug\DotNetFramework.dll
+E:\Git\DotNetFramework\DotNetFramework\DotNetFramework\obj\Debug\DotNetFramework.pdb

@@ -1,0 +1,7 @@
+E:\Git\DotNetFramework\DotNetFramework\Service\bin\Debug\Service.exe.config
+E:\Git\DotNetFramework\DotNetFramework\Service\bin\Debug\Service.exe
+E:\Git\DotNetFramework\DotNetFramework\Service\bin\Debug\Service.pdb
+E:\Git\DotNetFramework\DotNetFramework\Service\obj\Debug\Service.csprojAssemblyReference.cache
+E:\Git\DotNetFramework\DotNetFramework\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+E:\Git\DotNetFramework\DotNetFramework\Service\obj\Debug\Service.exe
+E:\Git\DotNetFramework\DotNetFramework\Service\obj\Debug\Service.pdb

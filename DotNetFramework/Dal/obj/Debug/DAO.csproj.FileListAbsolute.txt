@@ -1,0 +1,7 @@
+E:\Git\DotNetFramework\DotNetFramework\Dal\bin\Debug\Dal.exe.config
+E:\Git\DotNetFramework\DotNetFramework\Dal\bin\Debug\Dal.exe
+E:\Git\DotNetFramework\DotNetFramework\Dal\bin\Debug\Dal.pdb
+E:\Git\DotNetFramework\DotNetFramework\Dal\obj\Debug\DAO.csprojAssemblyReference.cache
+E:\Git\DotNetFramework\DotNetFramework\Dal\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\Git\DotNetFramework\DotNetFramework\Dal\obj\Debug\Dal.exe
+E:\Git\DotNetFramework\DotNetFramework\Dal\obj\Debug\Dal.pdb

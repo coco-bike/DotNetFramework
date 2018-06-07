@@ -16,6 +16,8 @@ namespace DotNetFramework
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+            //accessToken全局注册
+            AccessTokenContainer.Register(_appId, _appSecret);
         }
     }
 }
