@@ -1,5 +1,7 @@
-﻿using System;
+﻿using Senparc.Weixin.MP.Containers;
+using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
@@ -17,7 +19,7 @@ namespace DotNetFramework
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
             //accessToken全局注册
-            AccessTokenContainer.Register(_appId, _appSecret);
+            AccessTokenContainer.Register(ConfigurationManager.AppSettings["APPID"],ConfigurationManager.AppSettings["APPSECRET"]);
         }
     }
 }

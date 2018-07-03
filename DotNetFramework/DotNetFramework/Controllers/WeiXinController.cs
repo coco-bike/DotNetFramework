@@ -110,6 +110,8 @@ namespace DotNetFramework.Controllers
             //自定义MessageHandler，对微信请求的详细判断操作都在这里面。
             var messageHandler = new CustomMessageHandler(Request.InputStream, postModel);//接收消息
 
+            messageHandler.OmitRepeatedMessage = true;//启用消息去重功能
+
             messageHandler.Execute();//执行微信处理过程
 
             return new FixWeixinBugWeixinResult(messageHandler);//返回结果

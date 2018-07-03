@@ -108,6 +108,15 @@ namespace ThirdParty.SenParcWeiXin
 
                 ResponseMessage = responseMessage;//设置返回对象
             }
+
+            if (OmitRepeatedMessage && CurrentMessageContext.RequestMessages.Count > 1)
+            {
+                var lastMessage = CurrentMessageContext.RequestMessages[CurrentMessageContext.RequestMessages.Count - 2];
+                if (lastMessage.MsgId != 0 && lastMessage.MsgId == RequestMessage.MsgId)
+                {
+                    CancelExcute = true;//重复消息，取消执行
+                }
+            }
         }
         public override void Execute()
         {
