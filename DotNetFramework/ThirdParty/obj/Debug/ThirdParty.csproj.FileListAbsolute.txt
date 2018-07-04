@@ -9,8 +9,8 @@ E:\Git\DotNetFramework\DotNetFramework\ThirdParty\bin\Debug\Newtonsoft.Json.xml
 E:\Git\DotNetFramework\DotNetFramework\ThirdParty\bin\Debug\Senparc.Weixin.xml
 E:\Git\DotNetFramework\DotNetFramework\ThirdParty\bin\Debug\Senparc.Weixin.MP.xml
 E:\Git\DotNetFramework\DotNetFramework\ThirdParty\bin\Debug\Senparc.Weixin.Open.xml
-E:\Git\DotNetFramework\DotNetFramework\ThirdParty\obj\Debug\ThirdParty.csprojAssemblyReference.cache
 E:\Git\DotNetFramework\DotNetFramework\ThirdParty\obj\Debug\ThirdParty.csproj.CoreCompileInputs.cache
 E:\Git\DotNetFramework\DotNetFramework\ThirdParty\obj\Debug\ThirdParty.csproj.CopyComplete
 E:\Git\DotNetFramework\DotNetFramework\ThirdParty\obj\Debug\ThirdParty.exe
 E:\Git\DotNetFramework\DotNetFramework\ThirdParty\obj\Debug\ThirdParty.pdb
+E:\Git\DotNetFramework\DotNetFramework\ThirdParty\obj\Debug\ThirdParty.csprojAssemblyReference.cache

@@ -1,7 +1,7 @@
 E:\Git\DotNetFramework\DotNetFramework\Manager\bin\Debug\Manager.exe.config
 E:\Git\DotNetFramework\DotNetFramework\Manager\bin\Debug\Manager.exe
 E:\Git\DotNetFramework\DotNetFramework\Manager\bin\Debug\Manager.pdb
-E:\Git\DotNetFramework\DotNetFramework\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
 E:\Git\DotNetFramework\DotNetFramework\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
 E:\Git\DotNetFramework\DotNetFramework\Manager\obj\Debug\Manager.exe
 E:\Git\DotNetFramework\DotNetFramework\Manager\obj\Debug\Manager.pdb
+E:\Git\DotNetFramework\DotNetFramework\Manager\obj\Debug\Manager.csprojAssemblyReference.cache

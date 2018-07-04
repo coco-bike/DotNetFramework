@@ -102,8 +102,8 @@ E:\Git\DotNetFramework\DotNetFramework\Api\bin\zh-Hans\System.Web.Razor.resource
 E:\Git\DotNetFramework\DotNetFramework\Api\bin\zh-Hans\System.Web.WebPages.resources.dll
 E:\Git\DotNetFramework\DotNetFramework\Api\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
 E:\Git\DotNetFramework\DotNetFramework\Api\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
-E:\Git\DotNetFramework\DotNetFramework\Api\obj\Debug\Api.csprojAssemblyReference.cache
 E:\Git\DotNetFramework\DotNetFramework\Api\obj\Debug\Api.csproj.CoreCompileInputs.cache
 E:\Git\DotNetFramework\DotNetFramework\Api\obj\Debug\Api.csproj.CopyComplete
 E:\Git\DotNetFramework\DotNetFramework\Api\obj\Debug\Api.dll
 E:\Git\DotNetFramework\DotNetFramework\Api\obj\Debug\Api.pdb
+E:\Git\DotNetFramework\DotNetFramework\Api\obj\Debug\Api.csprojAssemblyReference.cache
