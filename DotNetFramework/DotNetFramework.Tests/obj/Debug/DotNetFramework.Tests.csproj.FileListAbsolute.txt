@@ -20,6 +20,10 @@ E:\Git\DotNetFramework\DotNetFramework\DotNetFramework.Tests\bin\Debug\System.We
 E:\Git\DotNetFramework\DotNetFramework\DotNetFramework.Tests\bin\Debug\System.Web.WebPages.dll
 E:\Git\DotNetFramework\DotNetFramework\DotNetFramework.Tests\bin\Debug\System.Web.WebPages.Razor.dll
 E:\Git\DotNetFramework\DotNetFramework\DotNetFramework.Tests\bin\Debug\System.Web.Optimization.dll
+E:\Git\DotNetFramework\DotNetFramework\DotNetFramework.Tests\bin\Debug\Senparc.Weixin.MP.dll
+E:\Git\DotNetFramework\DotNetFramework\DotNetFramework.Tests\bin\Debug\ThirdParty.exe
+E:\Git\DotNetFramework\DotNetFramework\DotNetFramework.Tests\bin\Debug\Senparc.Weixin.dll
+E:\Git\DotNetFramework\DotNetFramework\DotNetFramework.Tests\bin\Debug\Senparc.Weixin.MP.MvcExtension.dll
 E:\Git\DotNetFramework\DotNetFramework\DotNetFramework.Tests\bin\Debug\DotNetFramework.pdb
 E:\Git\DotNetFramework\DotNetFramework\DotNetFramework.Tests\bin\Debug\DotNetFramework.dll.config
 E:\Git\DotNetFramework\DotNetFramework\DotNetFramework.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
@@ -32,6 +36,11 @@ E:\Git\DotNetFramework\DotNetFramework\DotNetFramework.Tests\bin\Debug\System.We
 E:\Git\DotNetFramework\DotNetFramework\DotNetFramework.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
 E:\Git\DotNetFramework\DotNetFramework\DotNetFramework.Tests\bin\Debug\System.Web.WebPages.Razor.xml
 E:\Git\DotNetFramework\DotNetFramework\DotNetFramework.Tests\bin\Debug\System.Web.Optimization.xml
+E:\Git\DotNetFramework\DotNetFramework\DotNetFramework.Tests\bin\Debug\Senparc.Weixin.MP.xml
+E:\Git\DotNetFramework\DotNetFramework\DotNetFramework.Tests\bin\Debug\ThirdParty.pdb
+E:\Git\DotNetFramework\DotNetFramework\DotNetFramework.Tests\bin\Debug\ThirdParty.exe.config
+E:\Git\DotNetFramework\DotNetFramework\DotNetFramework.Tests\bin\Debug\Senparc.Weixin.xml
+E:\Git\DotNetFramework\DotNetFramework\DotNetFramework.Tests\bin\Debug\Senparc.Weixin.MP.MvcExtension.xml
 E:\Git\DotNetFramework\DotNetFramework\DotNetFramework.Tests\bin\Debug\zh-Hans\System.Web.Helpers.resources.dll
 E:\Git\DotNetFramework\DotNetFramework\DotNetFramework.Tests\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
 E:\Git\DotNetFramework\DotNetFramework\DotNetFramework.Tests\bin\Debug\zh-Hans\System.Web.Razor.resources.dll
