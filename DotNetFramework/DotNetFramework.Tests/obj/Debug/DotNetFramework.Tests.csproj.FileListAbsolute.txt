@@ -99,3 +99,12 @@ E:\Git VersionControl\DotNetFramework\DotNetFramework\DotNetFramework.Tests\obj\
 E:\Git VersionControl\DotNetFramework\DotNetFramework\DotNetFramework.Tests\obj\Debug\DotNetFramework.Tests.csproj.CopyComplete
 E:\Git VersionControl\DotNetFramework\DotNetFramework\DotNetFramework.Tests\obj\Debug\DotNetFramework.Tests.dll
 E:\Git VersionControl\DotNetFramework\DotNetFramework\DotNetFramework.Tests\obj\Debug\DotNetFramework.Tests.pdb
+E:\Git VersionControl\DotNetFramework\DotNetFramework\DotNetFramework.Tests\bin\Debug\Senparc.Weixin.MP.dll
+E:\Git VersionControl\DotNetFramework\DotNetFramework\DotNetFramework.Tests\bin\Debug\ThirdParty.exe
+E:\Git VersionControl\DotNetFramework\DotNetFramework\DotNetFramework.Tests\bin\Debug\Senparc.Weixin.dll
+E:\Git VersionControl\DotNetFramework\DotNetFramework\DotNetFramework.Tests\bin\Debug\Senparc.Weixin.MP.MvcExtension.dll
+E:\Git VersionControl\DotNetFramework\DotNetFramework\DotNetFramework.Tests\bin\Debug\Senparc.Weixin.MP.xml
+E:\Git VersionControl\DotNetFramework\DotNetFramework\DotNetFramework.Tests\bin\Debug\ThirdParty.pdb
+E:\Git VersionControl\DotNetFramework\DotNetFramework\DotNetFramework.Tests\bin\Debug\ThirdParty.exe.config
+E:\Git VersionControl\DotNetFramework\DotNetFramework\DotNetFramework.Tests\bin\Debug\Senparc.Weixin.xml
+E:\Git VersionControl\DotNetFramework\DotNetFramework\DotNetFramework.Tests\bin\Debug\Senparc.Weixin.MP.MvcExtension.xml
