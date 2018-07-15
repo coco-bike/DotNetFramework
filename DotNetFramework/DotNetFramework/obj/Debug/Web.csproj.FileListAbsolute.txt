@@ -2,3 +2,7 @@ E:\Git\DotNetFramework\DotNetFramework\DotNetFramework\obj\Debug\Web.csprojAssem
 E:\Git\DotNetFramework\DotNetFramework\DotNetFramework\obj\Debug\Web.csproj.CoreCompileInputs.cache
 E:\Git\DotNetFramework\DotNetFramework\DotNetFramework\obj\Debug\DotNetFramework.dll
 E:\Git\DotNetFramework\DotNetFramework\DotNetFramework\obj\Debug\DotNetFramework.pdb
+E:\Git VersionControl\DotNetFramework\DotNetFramework\DotNetFramework\obj\Debug\Web.csprojAssemblyReference.cache
+E:\Git VersionControl\DotNetFramework\DotNetFramework\DotNetFramework\obj\Debug\Web.csproj.CoreCompileInputs.cache
+E:\Git VersionControl\DotNetFramework\DotNetFramework\DotNetFramework\obj\Debug\DotNetFramework.dll
+E:\Git VersionControl\DotNetFramework\DotNetFramework\DotNetFramework\obj\Debug\DotNetFramework.pdb

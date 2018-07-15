@@ -5,3 +5,10 @@ E:\Git\DotNetFramework\DotNetFramework\Common\obj\Debug\Common.csprojAssemblyRef
 E:\Git\DotNetFramework\DotNetFramework\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
 E:\Git\DotNetFramework\DotNetFramework\Common\obj\Debug\Common.exe
 E:\Git\DotNetFramework\DotNetFramework\Common\obj\Debug\Common.pdb
+E:\Git VersionControl\DotNetFramework\DotNetFramework\Common\bin\Debug\Common.exe.config
+E:\Git VersionControl\DotNetFramework\DotNetFramework\Common\bin\Debug\Common.exe
+E:\Git VersionControl\DotNetFramework\DotNetFramework\Common\bin\Debug\Common.pdb
+E:\Git VersionControl\DotNetFramework\DotNetFramework\Common\obj\Debug\Common.csprojAssemblyReference.cache
+E:\Git VersionControl\DotNetFramework\DotNetFramework\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+E:\Git VersionControl\DotNetFramework\DotNetFramework\Common\obj\Debug\Common.exe
+E:\Git VersionControl\DotNetFramework\DotNetFramework\Common\obj\Debug\Common.pdb
